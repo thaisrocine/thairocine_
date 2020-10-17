@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 Instagram : @thais.espinola_
 - 😄 Pronomes: She / Her
 - ⚡ Amo uma conversa contagiante! 
+- :headphones: Amo música!
