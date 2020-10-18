@@ -35,39 +35,5 @@ Here are some ideas to get you started:
 - ⚡ I love a contagious conversation!
 -: headphones: I love music! 
 
-name: Generate Theme Readme
 
-on:
-  push:
-    branches:
-      - master
-    paths:
-      - "themes/index.js"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
-
-      - name: npm install, generate readme
-        run: |
-          npm install
-          npm run theme-readme-gen
-        env:
-          CI: true
-
-      - name: Run Script
-        uses: skx/github-action-tester@master
-        with:
-          script: ./scripts/push-theme-readme.sh
-        env:
-          CI: true
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          GH_REPO: ${{ secrets.GH_REPO }}
 
