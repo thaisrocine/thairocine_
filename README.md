@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 
-Thais Denise Rocine :octocat: 
+Thais Denise Rocine :octocat: ( English Version)
 
 - 🔭 I like coffee and learn new things ...
 - 🌱 I'm currently learning Python ...
