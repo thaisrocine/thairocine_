@@ -33,7 +33,8 @@ Thais Denise Rocine :octocat: ( English Version)
 -: instagram: Instagram: @ thais.espinola_
 - 😄 Pronouns: She / Hers
 - ⚡ I love a contagious conversation! 
-https://github-readme-stats.vercel.app/api​?username=Thaisrocine​)](https://github.com/Thaisrocine/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api​?username=Thairocine​)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
