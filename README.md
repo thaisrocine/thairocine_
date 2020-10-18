@@ -20,10 +20,10 @@ Here are some ideas to get you started:
  -:computer:I'm currently learning Python 
  -👯 I am part of communities like Elas @ Computação and Pyladies Paraíba 
  -🤔 I love working as a team and meeting new people
--💬 In my spare time I love watching Netflix, reading and chatting
+ -💬 In my spare time I love watching Netflix, reading and chatting
  -📫 Instagram: @ thais.espinola_
  -😄 Pronouns: She / Her
-- ⚡  I love a contagious conversation!
+ - ⚡  I love a contagious conversation!
  -: headphones: I love music! 
 
 
