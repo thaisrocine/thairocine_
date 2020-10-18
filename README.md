@@ -1,4 +1,4 @@
-###  Thais Denise Espínola :octocat:
+###  Thais Denise Rocine :octocat:
 
 <!--
 **Thairocine/Thairocine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 
-ENGLISH VERSION  
+Thais Denise Rocine :octocat: 
 
 - 🔭 I like coffee and learn new things ...
 - 🌱 I'm currently learning Python ...
