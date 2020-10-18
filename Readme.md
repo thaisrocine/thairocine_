@@ -34,7 +34,7 @@ Thais Denise Rocine :octocat: ( English Version)
 - 😄 Pronouns: She / Hers
 - ⚡ I love a contagious conversation! 
 
-github-readme-stats.vercel.app/api​?username=Thairocine
+https://github-readme-stats.vercel.app/api%E2%80%8B?username=thairocine%E2%80%8B)]
 
 
 
