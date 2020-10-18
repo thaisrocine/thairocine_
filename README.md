@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Faço parte de comunidades como o Elas@Computação e Pyladies Paraíba ...
 - 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
 - 💬 No meu tempo livre amo assistir Netflix, ler e conversar
-- 📫 Instagram : @thais.espinola_
+- :instagram: Instagram : @thais.espinola_
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 -->
