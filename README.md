@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 -->
+- 🔭 Eu gosto de café e aprender novas coisas ...
+- 🌱 Atualmente estou aprendendo Python...
+- 👯 Faço parte de comunidades como o Elas@Computação e Pyladies Paraíba ...
+- 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
+- 💬 No meu tempo livre amo assistir Netflix, ler e conversar
+- :instagram: Instagram : @thais.espinola_
+- 😄 Pronomes: Ela / Dela
+- ⚡ Amo uma conversa contagiante! 
  Thais Denise Espínola :octocat: (English version) 
  - :earth_americas: Brazilian And Paraiba
  - 🔭 I like coffee and learn new things :coffee:
