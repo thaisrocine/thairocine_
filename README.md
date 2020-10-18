@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
 - 💬 No meu tempo livre amo assistir Netflix, ler e conversar
 - 📫 Instagram : @thais.espinola_
-- 😄 Pronomes: She / Her
+- 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 -->
 - 🔭 Eu gosto de café e aprender novas coisas ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
 - 💬 No meu tempo livre amo assistir Netflix, ler e conversar
 - 📫 Instagram : @thais.espinola_
-- 😄 Pronomes: She / Her
+- 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 - :headphones: Amo música!
  
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 🤔 I love working as a team and meeting new people.
 - 💬 In my spare time I love watching Netflix, reading and chatting
 - 📫 Instagram: @ thais.espinola_
-- 😄 Pronouns: She / She
+- 😄 Pronouns: She / Her
 - ⚡ I love a contagious conversation!
--: headphones: I love music!
+-: headphones: I love music! 
+
+
