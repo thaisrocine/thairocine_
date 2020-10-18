@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - :headphones: Amo música!
  
  Thais Denise Espínola :octocat: (English version) 
- - :earth_americas: Brazilian And Paraibana 
+ - :earth_americas: Brasileira e Paraibana 
  - 🔭 I like coffee and learn new things :coffee:
 - :computer:I'm currently learning Python ...
 - 👯 I am part of communities like Elas @ Computação and Pyladies Paraíba ...
