@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 -->
-- 🔭 Eu gosto de café e aprender novas coisas :coffee:
+- 🔭 Eu gosto de café e aprender novas coisas :coffee: 
+- :earth_americas: Brazilian And Paraibana
 -  :computer: Atualmente estou aprendendo Python 
 - 👯 Faço parte de comunidades como o Elas@Computação e Pyladies Paraíba :hearts:
 - 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 - :headphones: Amo música!
  
  Thais Denise Espínola :octocat: (English version) 
+ - :earth_americas: Brazilian And Paraibana 
  - 🔭 I like coffee and learn new things :coffee:
 - :computer:I'm currently learning Python ...
 - 👯 I am part of communities like Elas @ Computação and Pyladies Paraíba ...
