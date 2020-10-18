@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 
+ENGLISH VERSION  
+
+- 🔭 I like coffee and learn new things ...
+- 🌱 I'm currently learning Python ...
+- 👯 I am part of communities like Elas @ Computação and Pyladies Paraíba ...
+- 🤔 I love working as a team and meeting new people.
+- 💬 In my spare time I love watching Netflix, reading and chatting
+-: instagram: Instagram: @ thais.espinola_
+- 😄 Pronouns: She / Hers
+- ⚡ I love a contagious conversation!
 
 
 
