@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - ⚡ I love a contagious conversation!
 -: headphones: I love music! 
 
-https://github-readme-stats.vercel.app/api?username=Thaisrocine&theme=dark&show_icons=true
+
 
 
