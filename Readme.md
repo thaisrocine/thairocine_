@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - :instagram: Instagram : @thais.espinola_
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
+Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thairocine&show_icons=true&theme=radical)
 -->
 - 🔭 Eu gosto de café e aprender novas coisas ...
 - :computer: Atualmente estou aprendendo Python...
