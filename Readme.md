@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 No meu tempo livre amo assistir Netflix, ler e conversar
 - :instagram: Instagram : @thais.espinola_
 - 😄 Pronomes: Ela / Dela
-- ⚡ Ciência da Computação @UFCG! 
+- :computer: Ciência da Computação @UFCG! 
 
 Thais Denise Rocine :octocat: ( English Version)
 
@@ -33,7 +33,7 @@ Thais Denise Rocine :octocat: ( English Version)
 - 💬 In my spare time I love watching Netflix, reading and chatting
 -: instagram: Instagram: @ thais.espinola_
 - 😄 Pronouns: She / Hers
-- ⚡ Ciência da Computação @UFCG!
+- :computer: Ciência da Computação @UFCG!
 
 
 
