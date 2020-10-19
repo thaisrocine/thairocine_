@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 👯 Faço parte de comunidades como o Elas@Computação e Pyladies Paraíba ...
 - 🤔 Eu amo trabalhar em equipe e conhecer novas pessoas.
 - 💬 No meu tempo livre amo assistir Netflix, ler e conversar
-- :instagram: Instagram : @thais.espinola_
 - 😄 Pronomes: Ela / Dela
 - :computer: Ciência da Computação @UFCG! 
 
@@ -31,7 +30,6 @@ Thais Denise Rocine :octocat: ( English Version)
 - 👯 I am part of communities like Elas @ Computação and Pyladies Paraíba ...
 - 🤔 I love working as a team and meeting new people.
 - 💬 In my spare time I love watching Netflix, reading and chatting
--: instagram: Instagram: @ thais.espinola_
 - 😄 Pronouns: She / Hers
 - :computer: Ciência da Computação @UFCG!
 
