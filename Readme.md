@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela / Dela
 - ⚡ Amo uma conversa contagiante! 
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thairocine&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thairocine&show_icons=true&theme=radical) 
+ [camo.githubusercontent.com]/f4c83bd20501d357c6f58f98175d70d1517db019/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
 - 🔭 Eu gosto de café e aprender novas coisas ...
 - :book: Atualmente estou aprendendo Python...
 - 👯 Faço parte de comunidades como o Elas@Computação e Pyladies Paraíba ...
