@@ -27,7 +27,9 @@ I am currently studying at the Federal University of Campina Grande, where I stu
 
 I like Python, HTML and a little bit of xD cloud computing. In my spare time I love to chat with my friends and watch good movies and series. :grinning:
 
-  WELCOME TO MY GIT HUB!  :hugs: :hugs: 
+  WELCOME TO MY GIT HUB!  :hugs: :hugs:  
+  
+  ![](https://github.com/Thairocine/Thairocine/blob/main/0249efe4cc8e3c20094fc2d20aa58912.gif)
   
 
  
