@@ -1,4 +1,4 @@
-  Thais Denise Rocine :octocat:
+  # Thais Denise Rocine :octocat:
 
 <!--
 **Thairocine/Thairocine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
