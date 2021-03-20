@@ -31,7 +31,8 @@ I like Python, HTML and a little bit of xD cloud computing. In my spare time I l
   
  ## Comunidades que participo 
  
- ![Elas@Computação](https://github.com/Thairocine/Thairocine/blob/main/elas_vertical-9f5231c01f5a0a905ad0e331e58ee548.png)
+ ![Elas@Computação](https://github.com/Thairocine/Thairocine/blob/main/elas_vertical-9f5231c01f5a0a905ad0e331e58ee548.png) 
+ ![](https://github.com/Thairocine/Thairocine/blob/main/Euped4hXcAMmpGT.png)
  
  
 
