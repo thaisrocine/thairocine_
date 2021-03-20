@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thairocine&show_icons=true&theme=radical) 
   ..
-## Sobre mim :computer: :books:
+## About Me! :computer: :books:
 
 
 Hello, my name is Thais Denise :dizzy:, I am 20 years old, I am a lover of technology, cats :cat:, good music and truly in love with music.
@@ -27,5 +27,9 @@ I am currently studying at the Federal University of Campina Grande, where I stu
 
 I like Python, HTML and a little bit of xD cloud computing. In my spare time I love to chat with my friends and watch good movies and series. :grinning:
 
-  WELCOME TO MY GIT HUB!  :hugs: :hugs:
+  WELCOME TO MY GIT HUB!  :hugs: :hugs: 
+  
+ ## Languages and tools 
+ 
+ 
 
