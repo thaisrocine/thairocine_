@@ -29,7 +29,9 @@ I like Python, HTML and a little bit of xD cloud computing. In my spare time I l
 
   WELCOME TO MY GIT HUB!  :hugs: :hugs: 
   
- ## Languages and tools 
+ ## Comunidades que participo 
+ 
+ ![Elas@Computação](https://github.com/Thairocine/Thairocine/blob/main/elas_vertical-9f5231c01f5a0a905ad0e331e58ee548.png)
  
  
 
