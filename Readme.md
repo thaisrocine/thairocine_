@@ -23,11 +23,7 @@ Hello, my name is Thais Denise :dizzy:, I am 20 years old, I am a lover of techn
 
 I am currently studying at the Federal University of Campina Grande, where I study Computer Science.
 
- In addition, I work at AeC as a telermarketing analyst, in a sector of 99 :yellow_heart: :black_heart:. I really like my job, as it makes me have constant contact with the user experience in the application. But my real desire is to work directly in technology.
 
-I like Python, HTML and a little bit of xD cloud computing. In my spare time I love to chat with my friends and watch good movies and series. :grinning:
-
-  WELCOME TO MY GIT HUB!  :hugs: :hugs:  
   
   ![](https://github.com/Thairocine/Thairocine/blob/main/0249efe4cc8e3c20094fc2d20aa58912.gif)
   
